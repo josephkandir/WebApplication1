@@ -2,6 +2,9 @@
 
 namespace WebApplication1.Controllers
 {
+    /// <summary>
+    /// About controller
+    /// </summary>
     public class AboutController : Controller
     {
         public IActionResult Index()
