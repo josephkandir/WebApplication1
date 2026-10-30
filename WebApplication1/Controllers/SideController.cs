@@ -11,6 +11,7 @@ namespace WebApplication1.Controllers
         /// <returns></returns>
         public IActionResult Index()
         {
+            // D6
             return View();
         }
     }
