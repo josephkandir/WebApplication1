@@ -3,6 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebApplication1.Controllers
 {
+    /// <summary>
+    /// Weather Forecast Controller
+    /// </summary>
     [Authorize]
     [ApiController]
     [Route("[controller]")]
