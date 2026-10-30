@@ -10,5 +10,11 @@ namespace WebApplication1.Controllers
             // D1
             return View();
         }
+
+        public IActionResult About()
+        {
+            // D2
+            return View();
+        }
     }
 }
