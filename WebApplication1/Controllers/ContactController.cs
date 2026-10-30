@@ -9,6 +9,7 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
+            // some logix to be written
             return View();
         }
     }
